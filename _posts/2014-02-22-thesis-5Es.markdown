@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Thesis Alternatives — 5 E's"
+date:   2014-02-22
+categories: thesis
+---
+###Alternative Prototype
+![]({{ site.url }}/images/5Es_alt_prototype.gif)
+
+This prototype is a online marketplace where products are filtered by where they are shipped from not the cost of shipping itself. Will we pay a little extra knowing our carbon output is less?
+
+ **1 Entice** 
+Shop local but online. Give consumers the option of shopping with the filter of knowing how your purchases might contribute to a global market.
+ 
+ **2 Enter** 
+Online and mobile. The products distance from the user will dominate the interface. The first iteration will work much like a product search engine filtered by distance of the product from the users address.
+ 
+ **3 Engage**
+The selection of products will be sourced from all over the internet via Googles  product search API — almost anything imaginable will likely be in the index.
+ 
+ **4 Exit**
+Through data about how the users are using the site (what they are purchasing, how far away the products are) we will publish maps and other info-graphics to help understand and define our societies overall relationship with local vs. global goods.
+ 
+ **5 Extend**
+Through showing the consumer that buying products closer to home does not necessarily mean they are more expensive. And giving them another way to feel as though they're empowering their community with their wallets.
+
+###FALL SEMESTER PROTOTYPE
+![]({{ site.url }}/images/5Es_fall_prototype.gif)
+
+This prototype was about setting up a crowdsourcing type marketplace for consumers, small businesses, and large enterprises to help find better avenues to ship products.
+
+ **1 Entice** 
+Simply put, each user would benefit from moving smaller goods further and in turn having more access and control.
+ 
+ **2 Enter** 
+Using the site, the process will be easy and the user will be aware of where they are in the flow. For the enterprise user the flow will likely include a representative to help them understand how the data matches up.
+ 
+ **3 Engage**
+Through feeling as though they are part of the 'chain'. Included in the process of making a decision about what kinds of products we'd like to support in the massive distribution networks.
+ 
+ **4 Exit**
+Blending these user groups will help spread the idea into an industry at large that will have to make dramatic changes in the near future. We've seen through online products and commerce that the game is changing as far as shipping goes but now it's time for us to think of solutions around the larger restraints like 90 of everything is being shipped across one ocean or another by massive tankers that together produce more pollution than all the cars on earth.
+ 
+ **5 Extend**
+It's a conscious way to battle big business practices that have denied social responsibility. We want to support the small guys but we have few choices unless we live close to the small businesses that fulfill those needs. The hope is that the user will feel motivated to continue to patron the site and help elect more products and, largely, to help businesses affect change for social good through grouping innovation and listening to their bottom-line consumer.
