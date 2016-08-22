@@ -3,6 +3,7 @@ layout: post
 title:  "Human Touch in Interaction Design"
 date:   2013-09-10
 categories: fun design
+lead: "A look at Space Team, Foldify, and D-Red"
 ---
 
 Since the beginning, people think of interaction design as a field input laden with mice, keyboards, and screens. They see our work floating in the ephemeral space between their screen and the information highway of the internet — like stars in galaxies or acquaintances misfiring in their Facebook feed. More and more though, the physical presence of this work is becoming more apparent. Whether it be that the work requires steps after the screen, in cooperation with one another on the screen, or in a completely separate interface that embraces our curiosity by giving quantitative data about our fitness routines like Nike’s Fuel Band. Here are some examples of playful interactions I’ve discovered in the past few months:

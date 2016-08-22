@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis Pieces"
 date:   2013-05-10
 categories: thesis
+lead: "There's nowhere to go but up from here"
 ---
 
 It’s that time of the year, this year. For the next seven months or so my life will be consumed by a large thought experiment. One whose outcome to me at this juncture is as dark and as mysterious as a black hole.

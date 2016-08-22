@@ -3,6 +3,7 @@ layout: post
 title:  "The End of Entrepreneurial Design and I Still Can’t Spell Entrepenuerial"
 date:   2013-05-02
 categories: fun design
+lead: "It's intentionally spelled incorrectly there at the end"
 ---
 
 Tomorrow morning I will say goodbye to Gary Chou and Union Square Ventures. For several weeks now we have had our Entrepreneurial Design class in the conference room of one of the most influential venture capitol firms in the world of tech. It was dreamy. I’ve spent every Wednesday morning in their conference room on the 29th floor with windows on three sides, the main row looking south over Union Square. I felt like a king, even though it was a very proper classroom setting.

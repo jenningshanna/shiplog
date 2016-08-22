@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Getting Out! The Great Escape from BROOKLYN 2013"
+title:  "Getting Out!"
 date:   2013-10-15
 categories: fun
+lead: "The Great Escape from BROOKLYN 2013"
 ---
 
 ![]({{ site.url }}/images/bronxbridge.png)

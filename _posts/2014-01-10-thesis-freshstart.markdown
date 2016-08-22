@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis — Fresh Thinking"
 date:   2014-01-10
 categories: thesis
+lead: "Turning. Around."
 ---
 
 The exercise here is to brainstorm different directions. Possible new directions. One of which will follow the general path I've already followed. The second will veer from the path in hopes that out of it's spontaneity comes deeply reflection-able insights. So without further ado:

@@ -3,6 +3,7 @@ layout: post
 title:  "Early Thesis Prototype"
 date:   2014-01-03
 categories: thesis
+lead: "Build and see, something will work"
 ---
 ###Thesis Prototype — Fall 2013
 

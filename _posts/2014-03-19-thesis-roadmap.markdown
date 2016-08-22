@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis Roadmap"
 date:   2014-03-19
 categories: thesis
+lead: "Goals and whatnot"
 ---
 ###Areas explored that need refinement:
 - Physical Prototype

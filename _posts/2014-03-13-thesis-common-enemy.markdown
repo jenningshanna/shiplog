@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis - Finding a Common Enemy"
 date:   2014-03-13
 categories: thesis
+lead: "Defining problems is a passion thing"
 ---
 ![Source: http://images.intomobile.com/wp-content/uploads/2011/01/shipping-containers-vs-gravity.jpg]({{ site.url }}/images/shipping_containers_vs_gravity_2.jpg)
 There's been a theme to today. Finding a **common enemy**. This post focuses on the common enemy of shipping and it's large, mostly silent contibution to climate change and CO<small>2</small> emissions. At this point this is the central argument of my thesis. Our supply chains are completely unsustainable and that we'll have to dig deep to change this reality. Case in point: [It's esimated that 16 super-cargo ships create as much polution as **all the cars on earth**](http://www.dailymail.co.uk/sciencetech/article-1229857/How-16-ships-create-pollution-cars-world.html).

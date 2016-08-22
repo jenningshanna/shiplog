@@ -3,6 +3,7 @@ layout: post
 title:  "Crazy Thesis Pieces"
 date:   2013-05-10
 categories: thesis
+lead: "Going down the rabbit hole"
 ---
 
 ###A bunch of crazy ideas that might have a thread of thesis in them?

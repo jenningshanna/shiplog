@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis - Beer as Process"
 date:   2013-05-10
 categories: thesis
+lead: "Making and observing brewing beer"
 ---
 
 In order to know a small batch supplier process better I started brewing beer three weeks ago. It’s been a delightful process of cleaning and re-cleaning my 100 square foot kitchen floor. And as we speak, I am conditioning the first 5 gallon batch in bottles, sitting in my hallway!

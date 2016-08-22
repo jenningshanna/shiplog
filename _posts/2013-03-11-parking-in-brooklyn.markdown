@@ -3,6 +3,7 @@ layout: post
 title:  "Parking in Brooklyn Part 1"
 date:   2013-03-11
 categories: fun
+lead: "Didn't think it could be this bad"
 ---
 ![]({{ site.url }}/images/tumblr_inline_migg2tz7Ij1qz4rgp.png)
 

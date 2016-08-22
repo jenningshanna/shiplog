@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis - The Great Equalizer"
 date:   2014-03-19
 categories: thesis
+lead: "whatever that means...?"
 ---
 ####Another prototype! 
 

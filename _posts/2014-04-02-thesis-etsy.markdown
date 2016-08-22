@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis - Prototyping with Etsy in Mind"
 date:   2014-03-19
 categories: thesis
+lead: "Thinking through a looking glass"
 ---
 The unexpected consequence of the online marketplace has been the influx of shipping and the inherent cost. [Amazon mis-calculation of its Prime memberships the first year they offered the service lead to a loss of 9 cents of every dollar in revenue. (USA Today)](http://www.usatoday.com/story/tech/2014/02/10/amazon-prime-amzn-fedex-shipping/5361351/)
 

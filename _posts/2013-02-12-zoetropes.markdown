@@ -3,6 +3,7 @@ layout: post
 title:  "Flipbooks, Zoetropes, and Memories"
 date:   2013-02-12
 categories: fun design
+lead: "Do we still value designed artifacts?"
 ---
 ![]({{ site.url }}/images/tumblr_inline_mi3gy0k7SD1qz4rgp.gif)
 

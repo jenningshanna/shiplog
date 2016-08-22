@@ -3,6 +3,7 @@ layout: post
 title:  "Are we ready to give more than a status update?"
 date:   2013-02-09
 categories: fun design
+lead: "Social memory banks"
 ---
 
 If you know me you know that I am somewhat obsessed with storytelling. I have been since a class I think about 6th grade. This is where it began: in a summer class I had on storytelling. The teacher enforced that our stories had to be spontaneous. Never written, camp fire style, on the spot, out loud to a group of 20 other people. I remember the class was full of kids that were older than me at the time, probably by only a couple of years, but in my world then that meant a lot. Most of us were visually terrified until our mouths’ opened. And out it came. Like Ray Bradbury said once: “We are cups, constantly and quietly being filled. The trick is knowing how to tip ourselves over and let the beautiful stuff out.” Needless to say, it was beautiful stuff coming out. We would tell our stories in unrehearsed and make-believe bits. Beginnings, middles, and endings wavering off of lips like leaves in the fall. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Interaction Design Philosophy v1"
 date:   2013-04-19
 categories: design thesis
+lead: "Where I think design lives"
 ---
 
 My Philosophy of DESIGN (as of 04-19-2013)

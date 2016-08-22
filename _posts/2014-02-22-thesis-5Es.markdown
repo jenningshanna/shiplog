@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis Alternatives — 5 E's"
 date:   2014-02-22
 categories: thesis
+lead: "A technique borrowed from Conifer Research"
 ---
 ###Alternative Prototype
 ![]({{ site.url }}/images/5Es_alt_prototype.gif)

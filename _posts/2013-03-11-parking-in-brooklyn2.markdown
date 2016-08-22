@@ -3,6 +3,7 @@ layout: post
 title:  "Parking in Brooklyn Part 2"
 date:   2013-03-11
 categories: fun
+lead: "the ugly truth"
 ---
 
 I left the lights on again, about a week later. This time I had learned the lesson and I called a cab. The cab driver was an young African dude. His accent was thick. 

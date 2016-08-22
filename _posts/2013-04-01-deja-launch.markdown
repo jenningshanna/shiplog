@@ -3,6 +3,7 @@ layout: post
 title:  "Deja Vu Launch"
 date:   2013-04-01
 categories: fun design
+lead: "Launching Deja Vu By You on April Fools day!"
 ---
 
 I closed on a house once on April Fools day. It scared and excited me simultaneously. I was young enough to be afraid of the ball and chain, but mature enough to also understand the benefits. I sat in my car that afternoon, starring at those silver keys as they glimmered onto my windshield. I had a feeling of not knowing what was to come but trusting it. Solidifying that trust it in the form of keys, a wad of money, and a couple thousand signatures.

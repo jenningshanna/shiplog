@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis - Climate Guilt?"
 date:   2014-03-09
 categories: thesis
+lead: "Who's to say we're the culprit?"
 ---
 ![]({{ site.url }}/images/Screen_Shot_2014_02_09_at_3_26_46_PM.png)
 

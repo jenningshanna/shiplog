@@ -3,6 +3,7 @@ layout: post
 title:  "An Old Friend"
 date:   2014-04-08
 categories: fun
+lead: "Talking to an old friend"
 ---
 I headed down to Philly tonight to talk to an old friend about my thesis. I should be clear. She's not just and old friend. Breeze has been a mentor of mine for a decade now. She escorted me into Chicago Public Radio and recently wrote the letter of recommendation that I am confident got me into this graduate program. She's a staple of my professional career and also a great friend. 
 

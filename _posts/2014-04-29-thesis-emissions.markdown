@@ -3,6 +3,7 @@ layout: post
 title:  "Thesis - Emission as an Opportunity for Clean Energy Investment"
 date:   2014-04-29
 categories: thesis
+lead: "Still looking for a perfect opportunity"
 ---
 ####A new pivot. 
 As designers know, and some that work with designers know, we're *indecisive*. It's a good thing. It allows us to "kill our darlings". Throughout this journey I've had lots of darlings to kill. This process of letting go allows for creative solutions to seep strangely from the edges of the culmination of our iterations.
