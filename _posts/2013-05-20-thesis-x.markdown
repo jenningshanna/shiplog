@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Crazy Thesis Pieces"
+date:   2013-05-10
+categories: thesis
+---
+
+###A bunch of crazy ideas that might have a thread of thesis in them?
+
+Our class recently involved an exercise/experiment where we were instructed to look at images around someones idea and them give them written feedback. Each was timed. I was partnered with Pam Jue who’s feedback was three things:
+
+- Don’t be speculative, it’s not sci-fi
+- Focus on the present
+- Advance existing systems
+
+I kind of feel bad for Pam cause all she knew about my thesis was a group of weird images from my last post that she’d had to stare at for two minutes. I will say though, her feedback was on target and I agreed with her. So I jumped right into some crazy sci-fi like stuff figuring I’d get it out of my system sooner rather than later. 
+
+The first task after receiving feedback was to provide a quick idea, or twist of my thesis. As if it was happening right then. Three ideas came to mind:
+
+Utilizing off duty networks of trains, cars, boats, even Citi Bikes to double up as a goods transporting network inside of NYC.
+A task rabbit-like service that puts your car or bicycle up for use when you are not using it to be utilized in a deliver network.
+(this is the crazy one) A giant catapult installed in shipping centers that can launch a car container into uptown Manhattan where a net would be installed in the canyons between two buildings. I also drew a picture of this idea, since it so obviously needed to be illustrated:
+
+![]({{ site.url }}/images/tumblr_inline_mtm4olyive1qezbpk.png)
+
+After that we were asked to refine our ideas. After the brain chaos that produced the CARGO CATAPULT! I attempted to ground myself. I had heard recently about a proposal to build another subway line in NYC; one that would go from Queens to Brooklyn without going through Manhattan. The kicker of the proposal was that most of it could be done without even building track, because, as Pam had suggested to me earlier for my thesis work, the track had already existed. I thought about the mysterious ‘lost’ track and how that might be used as a transportation network for bringing goods into the city and getting rid of all the trucks. Then I thought — here is the problem space. There are a bunch of trucks bringing this stuff into the city. The city needs this stuff to be what it is. We wouldn’t like it if it didn’t have all this stuff and all this stuff comes off of these trucks!
+
+The truth is: I don’t know anything about trucks. Nor do I know anything about trucking systems. I do, on the other hand, know how solve problems creatively and use research tools to get me there. This one, if I decide to dig in… is going to take a lot of those skills.
+
+The second refinement is really another idea. My fiancé took a couple of classes in Williamsburg recently called 'Spinning’. In which they ride stationary bicycles to the instruction from a tattooed and demanding instructor while listening to techno music. There is even a type now called aquaspinning, where they 'spin’ but submerged in water. The idea I had was to use the stationary bikes to create energy for the city transit system, specifically the subway. The bikes could generate into a collective battery which could operate minor functions like the toll gates. I imagine this could add up to quite a few dollars saved on electricity bill but really, Spinning would have to be a lot more than a fad.
+
+The other idea is based on the same concept of using power from stationary bikes. This time I imagine the bikes on the train, inside the train cars. Maybe no seats but bikes. And the bikes would have to be ridden in order for the train to operate  This would be a great idea if we were preparing for the apocalypse for sure but I doubt it’s valuable just yet… and I really should have drawn a picture of this one (check back next week).
+
+The exercise/experiment got my brain going pretty hard and out there. I think I realized that I love the abstract but sometimes I have to live in the now. There are lots of things to disrupt and lots of ways to change things but nothing is beyond understanding the actors and their functions with that place. What happens now will continue to be a series of thought experiments. I want to get a better grasp on two topics aside from transportation. One is farming and how transit affects those places. And the other is making beer and solutions around the absurdity of the Brewer Wars.
+
+I am also thinking that maybe I should write a book about my experience with the MTA. Maybe I will save that for after grad school.
