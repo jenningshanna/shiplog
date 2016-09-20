@@ -2,9 +2,10 @@
  * Site header
  */
 .site-lead {
-    background-color: $grey-color-dark;
-    min-height: 56px;
-
+    background-color: $grey-color-light;
+    min-height: 80px;
+	background-image: url(../images/pencils-top.png);
+	background-origin: content-box;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -106,8 +107,10 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    //border-top: 1px solid $grey-color-dark;
     padding: $spacing-unit 0;
+    background-image: url(../images/pencils-bottom.png);
+	background-color: $grey-color-light;
 }
 
 .footer-heading {
