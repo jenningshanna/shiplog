@@ -5,9 +5,6 @@ date:   2016-05-27
 categories: design
 lead: ""
 ---
-
-#Staying Gold in the Valley of Shadows
-
 In the novel The Outsiders by S. E. Hinton the protagonist Ponyboy and Johnny are jumped and accidentally murder an opposing gang member. They seek refuge in a church in a small town outside of my hometown of Tulsa, Oklahoma. While in refuge Johnny gives Ponyboy a copy of this poem by Robert Frost.
 
 > Nature’s first green is gold,
@@ -18,6 +15,7 @@ In the novel The Outsiders by S. E. Hinton the protagonist Ponyboy and Johnny ar
 > So Eden sank to grief,
 > So dawn goes down to day
 > Nothing gold can stay.
+
 
 When I left a small design firm in Oklahoma to pursue a masters degree in 2012 I thought I wanted to work at a greater scale. For nearly seven years, the majority of my youthful twenties I had produced content and design for all types of clients in Tulsa. Great clients! Albeit most were not behemoth corporations or tech companies, they were clients that loved and trusted us to do our best work for their small and often family run businesses. Businesses that were mostly so small they couldn’t take many risk.
 
@@ -33,6 +31,8 @@ I had a chalkboard in my office, my first analog design studio. We called upon i
 
 All this, and only the two of us. I remember in the summer the light from the east would blast through our studio’s windows and onto the white halls. My coffee steam trickling off the edge of my monitor. Toni leaning in the doorway discussing the morning news. News we’d both consumed from the local NPR syndicate on our drive in. For years this was a golden land of opportunity— one where I grew up as a designer, a professional, and a person.
 
+*** 
+
 The past few years I have been doing a lot of thinking about what I will do next professionally. A few years ago I was thinking I wanted to go “big”; I wanted to work at scale. When I moved to NYC I immediately jumped on an opportunity to help New York Public Radio develop a digital content strategy for the Jerome L. Green Space. Working with a small multimedia team to format and create online streams of video, social media, and web copy. It was fun and exciting; I met Phillip Glass on accident one day just walking through the performance space. But my time with New York Public Radio was short lived. Though I was going “big”, Graduate School was beginning to suffocate my days and I had to turn away my work there and focus solely on my studies.
 
 At the end of my first year of graduate school I again went looking for scale and took a job as the first user experience designer in the New York Metropolitan Transit Authority. You might know them as the folks who run the much beloved New York Subway. Over more than a year and a half I came to know them as a intimate group of train and bus operators, a blue collar workforce who got up early to keep the city they serve and love moving. Literally they were public stewards that come to work everyday to help seventeen million people transverse gotham. All the while tolerating the slowness and unaccountability of being saddled between nearly twenty unions and three government agencies (a city, a state, and the feds).
@@ -44,6 +44,8 @@ I wore the attire; a tie most days, khakis, Cole Haan’s, sometimes suspenders 
 Roberto shared so much with me. I knew nothing about the extreme linking and diversity of the United States largest transit agency. Nor was I prepared professionally to deal with the gravity of some of the decisions we’d be asked for our input on. Like 50 years plans in-companying systems analysis that involved tens of thousands of assets worth billions. But I often wasn’t scared because I knew that I had a great team to back me up and I knew the guy I worked with the closest understood and shared the same ambition. Without Roberto I would have never been able to swim through the bureaucracy and help discover the invaluable insight that we would later provide in the requirements document.
 
 This was “big”, we were working at a massive scale. But in reality we were updating processes that were still being documented on butcher books and typed into terminals manually. The work wasn’t sexy— and it wasn’t going to show any proof of concept or validation for many many years. But that said even I found something generous and golden in the process. I found a group of super smart people plugging away at a decades long problem while holding each of us to our highest standard. I found a friend and a colleague that pushed me to do my best while also protecting my amateurism and need to have the experience and be able to learn from that experience. At the MTA there was a reciprocity among our team and I do my best to keep in touch with them. Because you never know when we’ll have our next chance to collaborate. I’m looking forward to it.
+
+*** 
 
 Upon graduating school in 2014 I took on more work at scale. I worked for a professor of mine who had recently left IDEO. I helped with a team that ran a small suite of design services. We operated out of a startup office in Soho full to the brim of fifty other startups. The realization that this party was a little blown out was on my mind. Later that summer I took on a information architect role for the site of the newly opened Meyer Cornell Cancer Research Center in Manhattan. Interweaving building diagrams and holding interviews with body surfing and eating copious amounts of fish tacos in the Rockaways. Needless to say, it was a good summer.
 
@@ -57,11 +59,15 @@ We pushed the boundaries and when we hit walls we found paths around them. For e
 
 We got a few more green lights, and a few holding patterns. One project called Journeys won us a Telly Award. All together working with Carmen was a charm, not just because of the four pound statue sitting on my bookshelf. But because it made me feel like my eight year old self playing football in the fields behind my Oklahoma home was proud, glowing gold. My dad even told me that his barbershop was clamoring with guys wanting to know what I did for them. What was most important is that Carmen and I cemented a friendship and working relationship that will influence and shape my thinking for years to come.
 
+*** 
+
 My wife said to me the other day, “you probably look at accountability differently.” As someone who spent my salad days in the depths of running a small design business in a medium market city like Tulsa I’d experienced what a fear of loosing a client felt like. And then how actually loosing a client felt even worse. I’d messed up presentations, delayed deliverables, and showed up late on conference calls I was supposed to lead. I had fallen asleep few times wondering if I’d have an office door to unlock the next day and a chair to sit in. I once took down a orange juice factory in North Carolina by changing their hosting settings on an email server. I never asked, and it just so happened to be that the entire production line was based on an outlook email server configuration! I apologized profusely, did free work, and we kept the client somehow. I was stupid and amateur like most of us when we’re just starting out. I had help staying golden, though. Mentorship from those ahead of me like Toni, Roberto, and Carmen.
 
 I got the opportunity to be amateur and I learned some of my most valuable lessons from it. And my wife is completely right, the one that resonates the most is accountability. It doesn’t matter if you can do something well if you can’t admit when you can’t do something. Or can’t admit having not ever done that thing before. Accountability is asking for help. Accountability is being asked for help and jumping to the opportunity. It’s trusting to help those and be helped when it’s necessary. You have to be willing to work and think without being inhibited by the fear of making mistakes. It’s not a question of being tough or grinding your teeth until you magically burst with talent. This misguided mindset is the valley of shadows. And the road around it, I believe to be paved with accountability. You learn this pretty quickly in a small business. But you can also learn this in a big business, even in a football business. But most of all you learn this from people you share work and critique with. People who become mentors and keep us golden.
 
 Gold is being true to yourself — golden is true to those that have come before and will come after you. Golden is staying true to yourself while looking to grow. Golden is asking for help because you never know when the person you ask will take you under their wing and teach you through experience. Golden is admitting when you are wrong or unsure and owning the amateurism that comes with any profession. Being golden is all of us in the first light and the last light, whether we’ve just begun or we’re winding down. Those who mentored me even if they didn’t mean to be mentoring me. To Toni, Roberto, and Carmen, Stay Gold.
+
+*** 
 
 The Outsiders story ends with Johnny passing away. His last words to Ponyboy are “Stay Gold”.
 
