@@ -2,7 +2,7 @@
 layout: post
 title:  "Writing 2018"
 date:   2018-03-11
-categories: design
+categories: design, fun
 lead: "Where did 2017 go?"
 ---
 
