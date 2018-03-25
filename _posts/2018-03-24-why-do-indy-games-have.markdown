@@ -9,12 +9,10 @@ lead: ""
 > "It's probably because they have less bureaucracy." 
 
 This is what I imagine my colleagues telling me if I were to ask this question: 
-
-
-
+<br/><br/>
 # Why do indie games have better sites?
 
-<br/><br/><br/>
+<br/><hr><br/>
 
 #### EXIBIT A - BELOW
 For example, one of my absolute favorites, [Below](http://www.whatliesbelow.com/) (there's also an easter egg in this site involving a shooting star).
@@ -27,7 +25,7 @@ If you can't tell I love the premise of this game. I've been excited for many ye
 
 <iframe src="https://player.vimeo.com/video/68314832" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<br/><br/><br/>
+<br/><hr><br/>
 
 #### EXIBIT B - NIGHT IN THE WOODS
 Here's another example. [Night In The Woods](http://www.nightinthewoods.com/)
@@ -48,7 +46,7 @@ There are many things happening here. Not all are apparent from the usability si
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u17kM8oSz3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<br/><br/><br/>
+<br/><hr><br/>
 
 #### EXIBIT C - FE
 Hey, you think I would really write this without featuring some of my work? Hehe.
@@ -63,7 +61,7 @@ We created a OVERVIEW page that has gameplay clips. These clips are not from Gam
 
 Lastly, we were able to stand up a MEDIA page where we feature videos, screensavers, the soundtrack, and even a comic book to download. All of which we never do. I can understand why DICE or BIOWARE might be busy building cosplay suits that cost thousands for Comic Con, and that those investments make sense for something that is a at the center of the gaming world like the games these studios create. But what kind of lift are these things really?
 
-<br/><br/><br/>
+<br/><hr><br/>
 
 #### THE CASE I'M MAKING
 
