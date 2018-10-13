@@ -2,7 +2,7 @@
 layout: post
 title:  "Why do indie games have better websites?"
 date:   2018-03-11
-categories: design, fun
+categories: design fun
 lead: ""
 ---
 
