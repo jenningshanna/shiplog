@@ -14,12 +14,12 @@ This is what I imagine my colleagues telling me if I were to ask this question:
 
 <br/><br/>
 
-#### EXIBIT A - BELOW
+#### Exhibit A - BELOW
 For example, one of my absolute favorites, [Below](http://www.whatliesbelow.com/) (there's also an easter egg in this site involving a shooting star).
 
 This site does something I've actually never seen any other site do. Ever. Did you catch it? If not, go back and keep scrolling. 
 
-Okay, did you notice you can keep scrolling infinitely? Pretty neat, right? What really makes this neat is that's exactly what the game Below is about. Your shipwrecked on an island with only a dungeon to crawl. The halls and twisting caverns are generated dynamically so you never really visit the same place twice. But here's the twist, when you die in this game you start over, shipwrecked. With nothing. Though you may find the body of the your past  adventurer and in this case, loot it.
+Okay, did you notice you can keep scrolling infinitely? Pretty neat, right? What really makes this neat is that's exactly what the game Below is about. Your shipwrecked on an island with only a dungeon to crawl. The halls and twisting caverns are generated dynamically so you never really visit the same place twice. But here's the twist, when you die in this game you start over, shipwrecked. With nothing. Though you may find the body of the your past  adventurer and of course loot it.
 
 If you can't tell I love the premise of this game. I've been excited for many years to play it! And to be completely one hundred percent transparent, Below is special for a gaming website standpoint. As someone who builds websites and works in the gaming industry I cannot give you another single example of a game website that is as interesting as this. 
 
@@ -27,7 +27,7 @@ If you can't tell I love the premise of this game. I've been excited for many ye
 
 <br/><br/>
 
-#### EXIBIT B - NIGHT IN THE WOODS
+#### exhibit B - NIGHT IN THE WOODS
 Here's another example. [Night In The Woods](http://www.nightinthewoods.com/)
 
 Let's take inventory of some of the types of content on this site:
@@ -48,7 +48,7 @@ There are many things happening here. Not all are apparent from the usability si
 
 <br/><br/>
 
-#### EXIBIT C - FE
+#### Exhibit C - FE
 Hey, you think I would really write this without featuring some of my work? Hehe.
 
 Here's one our team built at EA under my direction. [Fe](https://www.ea.com/games/fe)
