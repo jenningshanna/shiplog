@@ -91,16 +91,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $hard-blue-color;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: lighten($brand-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: darken( $brand-color, 5% );
     }
 }
 
@@ -110,12 +109,13 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $text-color;
+    border-left: 4px solid $brand-color;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
+    font-size: 1.6rem;
+    letter-spacing: 0.06rem;
     font-style: italic;
+    margin: 30px 20px;
 
     > :last-child {
         margin-bottom: 0;

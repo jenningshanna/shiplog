@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Why do indie games have better websites?"
+title:  "Indy Game Marketing "
 date:   2018-03-11
-categories: design fun
-lead: ""
+categories: design fun top
+lead: "Why do indie games have better sites?"
 ---
-
 > "It's probably because they have less bureaucracy." 
 
 This is what I imagine my colleagues telling me if I were to ask this question: 

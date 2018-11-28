@@ -5,14 +5,34 @@ layout: default
 	
 </div>
 <div class="home">
-	
-  <p class="rss-subscribe" style="float: right; font-size: 12px; margin-top: -19px;">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> or go back to <a href="http://www.jenningshanna.com">JenningsHanna.com</a></p>
   
-  <h1 style="padding: 10px 15px; background-color: #6DBCDB; border-radius: 4px;" class="page-heading">Posts</h1>
-
+  <h1 class="page-heading">all the logs</h1>
+<div style="column-count: 2;">
   <ul class="post-list">
     {% for post in site.posts %}
-      <li style="border: 1px solid lightgrey; padding: 15px; border-radius: 4px;">
+    
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <em><small>{{ post.lead }}</small></em>
+        </h2>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}&nbsp;|&nbsp;{{ post.categories | join: ', ' }}</span>
+      </li>
+      <p>---</p>
+
+    {% endfor %}
+  </ul>
+</div>
+    
+  <h1 class="page-heading">Suggested</h1>
+
+  <ul class="post-list">
+    {% for post in site.categories.top %}
+      <li>
+	      {% if post.image %}
+	      	<img src="{{ post.image | prepend: site.baseurl }}" 
+	      	alt="{{ post.title }}" title="{{ post.title }}">
+	      {% endif %}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <em><small>{{ post.lead }}</small></em>
@@ -21,5 +41,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+<!--RSS SUBSCRIBE AND HOME LINK -->
+  <p class="rss-subscribe" style="float: right; font-size: 12px; margin-top: -19px;">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> or go back to <a href="http://www.jenningshanna.com">JenningsHanna.com</a></p>
 
 </div>

@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "An Imperfect Spiral"
+date:   2018-09-09
+categories: design
+lead: "Dissecting an app we built at NFL Media"
+---
+_What I learned about ritual from a product that didn't make it_
+
+![The Spiral App]({{ site.url }}/images/spiral-app.jpg)
+
+### Our Sunday Ritual
+
+The NFL Kickoff has always been a holiday for me: it was the start of the new football season. As far back as I can remember I've loved pro football. So much so I spent countless hours of my childhood throwing myself the football in the back yard. Reenacting plays from games I'd watched earlier that day on TV. I thought it was all so cool, every bit of it. I adored the controlled aesthetics and specificity of the logos and the uniforms. I gawked at the pageantry of the field markings, endzone paint, and amass of fans funneling like a swarm of bees through the stadiums. Most of all: I was fascinated by the drama. The last minute heroics, the missed opportunities, the emphatic celebrations. The game has so many stories that make up a majority of American families' Sunday ritual.
+
+Like many of us, my family took the afternoon off on Sundays to watch football. Our beloved Broncos would often play the late game. We'd invite friends and family to join us as we overindulged. Stacking chips and guacamole on oblong-shaped paper plates. Plucking cheap beers from a 30 pack as if they had fallen with the mosaic of leaves in the front yard. Our ritual as Denver Broncos fans was to watch this man, John Elway, commandeer an always sloppy but yet impressively winning team to five Super Bowls. He only won two, and did it back to back in 1997 and 1998. My family was ecstatic and a little exhausted from the many years of being on this emotional roller coaster.
+
+By the time he'd won the first of those two championships, I was a teenager. And like us all, I was busy looking for ways to express myself. Most of those didn't align well with the football crowd. And even in my hormonal haze of being sixteen, I distinctly remember coming home from my job and turning on the TV to see that the Broncos had won it all again. No one was home, the ritual was happening at a family friends house. This time it was different, Elway was calling it in. He retired right there on the stage. And all the sudden there I was crying. I cried with him, as did my dad, mom, and brother I am sure. We were all in relief that this part of our ritual was over.
+
+![Carmen and I at the NFL Studio in Culver City, 2014]({{ site.url }}/images/spiral-carmen.jpg)
+
+### Opportunity Knocks
+
+When a colleague approached me about coming to help build and design digital products at the NFL I jumped for the opportunity with glee. My childhood-self eager to work on something I'd loved and adored. And my wife and I were ready to leave NYC. Primarily because the "rent was to damn high".
+
+Right from the start at the NFL my co-designer Carmen Dukes and I began exploring a new product by searching to answer this simple question: "How do we socialize the touchdown?". After acquiring research from a large survey firm, we'd come to the initial conclusion that fans wanted more ways to express big plays (which mostly involved touchdowns, but not always).
+
+We built a few quick prototypes, then tested them internally with other teams like the business and social groups. After gathering early insights we took to a more specific approach to validate our conclusions. We used those to incorporate interactions that we thought would hold water. And drew up our first official definition via this opportunity framework:
+
+![]({{ site.url }}/images/spiral-ritual.png)
+
+
+### What's Your Ritual
+
+On Sunday mornings I would drive around to bars in LA (games start at 1pm on the east coast and therefore 10am on the west coast). I would approach unsuspecting patrons. Showing them loose prototypes. Always engaging them with pleasantries, yet working hard to survey their opinions on their Sunday ritual. Doing my best to not disturb the game.
+
+They'd often recognize the NFL insignia on my jacket (the only real credential I had) and at least give me a chance to explain myself. I'd corral them with my football knowledge, rambling about so-and-so doing such a thing on whatever team. I'd explain to them my role, and how I was working on creating a video/social product with the NFL. Most were happy to share and I'd thank them profusely, leave them with some stickers, and sometimes buy them a drink.
+
+Our guerrilla research would lead us to user mental models we would utilize to sculp and further refine our definition. We built personas of many of those fans I'd talked too. They helped us strategically understand what future expectations might be. While also providing us with a many hints that would stand up our hypothesis of "how do we socialize the touchdown". We had many ideas on: How fans define "sharable"? When fans share? What type of content do they share? Who do they want to share it with, when?
+
+![]({{ site.url }}/images/spiral-chart.png)
+
+### Every Sermon Has A Preacher
+
+One really interesting insight we came across was that more often than not fans wanted to share and follow a specific team and/or player. Like my families adoration of John Elway and the Denver Broncos. Most fans sought a deeper connection to the team, and more than anything else, leaders on that team. Fans were indoctrinated in the same informal ritual as I was. Whether they were raised in the outskirts of Steeler country or the inner-workings of New Englands' Patriots.
+
+One fan of the colts shared with me her nostalgia, suggesting that she came to watch the games because it reminded her of being home in Indiana, instead of studying away at UCLA. I've felt this too. I found solace in watching the Broncos again in my twenties when I went away to college. Even though I went to art school. I had the craving like it was my mom's chicken friend steak and bacon green beans.
+
+Leaders are hard to find though. So, in many cases the team becomes an anomaly of multiplicity and history. There's the empirical Lambeau Field, once home to the empirically historic Coach Lambeau. There's the deflate-gates, the pretty boys who married models, and fat cat owners whose propensity for a lavish first order aristocrat lifestyle, all on display in every Best Buy, every Sunday, screaming at you to "BUY THAT 4K MEGASUPER-PIXEL 56" HD TV".
+
+### Products Are Just Babies, Man
+
+We rounded up our opportunity framework and our users mental models and started to produce what would be the final prototype. The first interface  was as low fidelity as we could keep it while also selling the product as a real thing:
+
+![early conceptual sketch I did in photoshop]({{ site.url }}/images/spiral-early-sketch.png)
+
+We also worked with the amazing team of video producer we had around to create a "sizzle" reel of the product:
+
+<center><iframe src="https://player.vimeo.com/video/152087688" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+
+We used the wires and the story sketch to again engage with a guerrilla audience- who, once again, I met randomly at random bars on Sunday mornings. The prototype went over well and was generally well excepted. The sizzle reel was the real dealmaker. People would see the concept in full flesh and it's impact on a wider audience by "spinning up the days top plays". We'd achieved giving people a way to share the big plays, with video, while also keeping  it simple. Now we had to convince our stakeholders to give us the funds to build and deploy it.
+
+In hindsight people were probably interested, at least in part, because of the lack of getting highlights and feedback without a cable subscription. Due to a blackout carrier and application model that only Verizon customers can watch games on mobile devices. If you're a huge NFL fan, the only way to go is to get the RedZone, and you have to have a TV and some kind of cable provider for that. This issue stems from a continuance of deals that were made when digital media wasn't so much internet based, but TV based. Television has left the NFL, and many of the sports leagues, with a problem of old silos holding content makers hostage. Those silos are networks, and they're too big to fail. But who's really hurt by this is the fan. They essentially have to go to a bar to watch the games if they don't have a TV.
+
+### Fans, Not Football, Make The Rituals
+
+In the next few weeks we would brainstorm and converge on a name: SPIRAL. It would live at spiral.nfl.com. It's tag line: "Spin Up Your Teams Biggest Play". There was a push internally at the NFL to create more content that generated more video views and completions (both baselines metrics for showing value of video in our digital age). And with that in mind, we felt good about pitching Spiral. It was a digital product that incorporated a video and a social sharing element, both aligning perfectly with NFL media business goal at the time.
+
+We began making the pitch, but first we had to get a quote. The team I was working with had built a successful product a few years back called NFL Up with a creative firm in SF called JUXT. Naturally we reached out to them first for a quote and to see if they'd be interested. They'd done some gamification with the Twitter and Facebook APIs in the past. So we definitely were confident they could build the product right and they were top on our list.
+
+Our pitch would be to Perkins Miller. The head executive of NFL media and the signature to all of the checks we would need. We were pursuing a large chunk of change to get it built and since we wanted to do it by next season, we'd have to justify our assumptions concretely. Especially if you consider that NFL Media is a studio built for television first and digital media second. We proposed building Spiral in phases to keep cost down and because as designers we wanted to keep the product definition lean, malleable, and allow ample space to incorporate feedback in later iterations.
+
+In our pitch we showed how it would work; we talked about the fans we'd met doing research and what they'd expect from a product like ours; we aligned our talking points with the overall objectives of the business at the time . At one point during the pitch Perkins stopped our presentation. Asking us, "you actually talked to fans?". I was afraid to say yes, as I thought explaining our guerrilla research method of going to bars before noon might not have gone over so well. But alas I said yes. And he clamored to his VPs, "Finally, somebody is talking to the FANS!".
+
+We were approved shortly after! But our work didn't stop there. We'd be creating detailed documents for weeks to come. Explaining the users agendas and requirements for the interface, mobile specifications, and interactive models. We then worked with other teams like the social and features teams to help orchestrate how SPIRAL would be launched, and who would maintain it during the season. All the dominos were in place, lined up, side by side. Ready to fall.
+
+![SPIRAL first design, built with JUXT, 2015]({{ site.url }}/images/spiral-app2.jpg)
+
+### Homecoming Pains
+
+SPIRAL launched at the kickoff of the 2015 NFL season. By then I had moved on from the NFL to take a fellowship in San Francisco. The team invited me down to LA to hang out for day one- to witness Spiral's first spin around the internet's product racetrack.
+
+I was giddy. My eight year old self was beaming with a glow that only my childhood backyard and a worn football will truly ever know. There's nothing like bringing to life an idea in general. But bringing to life a concept around a ritual you and your family loved and enjoyed your entire life is a hard emotion to describe. I recall, right after getting the green light, calling my wife and telling her that, "my eight year old self could die happy right now." I was in the endzone splashing popcorn in my facemask.
+
+<center><img src="{{ site.url }}/images/spiral-popcorn.gif" /></center>
+
+I spent the day at the NFL shimmying around the news room floor of the Culver City studio. I watched as editors instructed interns to pull a clip and tag it in SPIRALs asset management system. I sat in as the editors discussed the headlines for the big play post. And of course, I participated by posting and sharing myself.
+
+<center><img src="{{ site.url }}/images/spiral-tweet.png" /></center>
+
+It was an awesome moment. One which brought back memories of the guacamole filled paper plates and over abundance of cheep bear. One that felt as unique as moms chicken fried steak and bacon green beans. One that tickled my amygdala into that familiar feeling we all have when understanding home and ritual are intertwined. It was a celebration for me personally, following a dream and catching it, only to let it go back out into the world for everyone to use and enjoy as much as I did making it. Only, that would only be the case for a brief time.
+Nostalgia, the terms etymology, is derivative of the Greek words for "homecoming" and "pain".
+SPIRAL is gone now. Shut down this last season. It's been disregard from the internet and buried in the digital product graveyard. It's joined many other sites in the litany of the way back machine. For me it makes this years start to a new NFL season bittersweet. I'd love do nothing more than boast about a fabulous product and use it each week as I watch my Broncos with friends and family gathered around me. But I won't. Instead I'll share with them this retrospective. A product design story about how some things just don't make it into the ritual. And that's alright.

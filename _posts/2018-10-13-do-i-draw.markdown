@@ -3,9 +3,8 @@ layout: post
 title:  "Do I Draw?"
 date:   2018-10-13
 categories: design fun
-lead: ""
+lead: "Fun ideas and projects for me during leave from work"
 ---
-
 # What do you do with PATERNITY LEAVE?
 Last time my wife and I had a child I was unemployed in the most spectacular way. I worked at a startup in San Francisco that was later bought by a bigger start up. Everyone knew it was coming, well everyone EXCEPT FOR ME, and instead of just telling me that I would be quickly unemployed they let me off early. I was devastated, as anyone would be, but I got my wits together and started working on SIDE PROJECTs.
 
@@ -14,24 +13,26 @@ Anyone who knows me knows that I adore side projects. I think they are the bone 
 We all have our professions and stuff and we all do our best to make cool and great and genuine things and in-turn... sometimes... a living. But what is really unique about us all are the things we toy with, the things we make for no one but ourselves. The marrow of life.
 
 Here I am going to try and list out some things that I can make, learn, or play with my two year old during my leave:
-
-* (Finish) designing and writing children's book
-* Get really good at making _Sand Castles_
-* Get him riding a bike or skateboarding on his own
-* _Guitar or Music Lessons_ for both of us
-* Build a _Smoker_
-* Garden local neighborhood boxes
-* Make more wine labels for [Marshak Wine Co.](https://marshakwinecompany.com/)
-* Write more on this blog
-* Work on [postcard site](http://www.futurepost.cards)
-* Get _for realz_ good at Madden
-* Sketch more toys and print large scale for the kids room
-* Make top-down final fantasy like game about skateboarding
-* Go skateboard twice a week
-* Get momma bear a big bike with a barrel in front
-* Beat Spider-Man, Red Dead 2, and Mega Man 11
-* Watch [Minding the Gap](https://www.mindingthegapfilm.com/) and lots of other documentaries (tweet @ me suggestions)
-
+<div style="column-width: 21rem;">
+<ul>
+<li> (Finish) designing and writing children's book</li>
+<li> Get really good at making _Sand Castles_</li>
+<li> Get him riding a bike or skateboarding on his own</li>
+<li> _Guitar or Music Lessons_ for both of us</li>
+<li> Build a _Smoker_</li>
+<li> Garden local neighborhood boxes</li>
+<li> Make more wine labels for [Marshak Wine Co.](https://marshakwinecompany.com/)</li>
+<li> Write more on this blog</li>
+<li> Work on [postcard site](http://www.futurepost.cards)</li>
+<li> Get _for realz_ good at Madden</li>
+<li> Sketch more toys and print large scale for the kids room</li>
+<li> Make top-down final fantasy like game about skateboarding</li>
+<li> Go skateboard twice a week</li>
+<li> Get momma bear a big bike with a barrel in front</li>
+<li> Beat Spider-Man, Red Dead 2, and Mega Man 11</li>
+<li> Watch [Minding the Gap](https://www.mindingthegapfilm.com/) and lots of other documentaries (tweet @ me suggestions)</li>
+</ul>
+</div><br>
 So there you have it. I'll highlight a few for thought:
 
 ## Children's Book

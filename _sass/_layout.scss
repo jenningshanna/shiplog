@@ -2,7 +2,7 @@
  * Site header
  */
 .site-lead {
-    background-color: $grey-color-light;
+    background-color: $soft-blue-color;
     min-height: 80px;
 	background-image: url(../images/pencils-top.png);
 	background-origin: content-box;
@@ -12,7 +12,7 @@
 
 .site-header {
     //border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    //border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -20,17 +20,13 @@
 }
 
 .site-title {
-    font-size: 26px;
+    //font-family: georgia;
+    letter-spacing: -0.08rem;
+    font-size: 3rem;
+    line-height: 2;
     font-weight: 300;
-    line-height: 56px;
-    letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
 }
 
 .site-nav {
@@ -42,7 +38,9 @@
     }
 
     .page-link {
-        color: $text-color;
+        //color: $brand-color;
+        color: rgba(143, 192, 222, 1);
+		font-size: .9rem;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -101,16 +99,13 @@
     }
 }
 
-
-
 /**
  * Site footer
  */
 .site-footer {
-    //border-top: 1px solid $grey-color-dark;
+    background-color: $soft-blue-color;
     padding: $spacing-unit 0;
     background-image: url(../images/pencils-bottom.png);
-	background-color: $grey-color-light;
 }
 
 .footer-heading {
@@ -183,12 +178,19 @@
 }
 
 .page-heading {
-    font-size: 20px;
+	color: rgba(255, 255, 255, 1);
+	text-shadow: 0.08rem 0.07rem #dddcd4;
 }
 
 .post-list {
     margin-left: 0;
     list-style: none;
+    
+    em {
+	    font-size: $small-font-size;
+       
+    }
+
 
     > li {
         margin-bottom: $spacing-unit;
@@ -197,7 +199,9 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $brand-color;
+    font-family: georgia;
+    margin-top: -16px;
 }
 
 .post-link {
@@ -215,9 +219,11 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 5rem;
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 1.5;
+    text-shadow: 0.12rem 0.07rem rgb(221, 220, 212); 
+	font-family: georgia; 
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -226,6 +232,17 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    
+    span.dropcap {
+	  	  color: #111;
+		  float: left;
+		  font-family: Georgia;
+		  font-size: 6rem;
+		  line-height: 84px;
+		  padding-top: 4px;
+		  padding-right: 12px;
+		  text-shadow: 0.52rem 0.02rem #dddcd4;
+	}
 
     h2 {
         font-size: 32px;

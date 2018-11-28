@@ -2,7 +2,7 @@
 layout: post
 title:  "Staying Gold in the Valley of Shadows"
 date:   2016-05-27
-categories: design
+categories: design top
 lead: ""
 ---
 In the novel The Outsiders by S. E. Hinton the protagonist Ponyboy and Johnny are jumped and accidentally murder an opposing gang member. They seek refuge in a church in a small town outside of my hometown of Tulsa, Oklahoma. While in refuge Johnny gives Ponyboy a copy of this poem by Robert Frost.

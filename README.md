@@ -3,4 +3,4 @@
 
 All my writing over the years.
 
-Built using Jekyll and Github and Nearly Free Speech
+Built using Jekyll and Github and Nearly Free Speech platforms.
