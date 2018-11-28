@@ -183,18 +183,31 @@
 }
 
 .post-list {
+	display: inline-block;
     margin-left: 0;
     list-style: none;
+    border-top: 10px solid #ed492f;
+    border-radius: 16px;
+    border-right: 54px solid #f0ab3b;
+    border-left: 13px solid #4bbbfb;
+    border-bottom: 46px solid #54b139;
+    box-shadow: 19px 18px #cce0e9;
+    width: 183.3px;
+    vertical-align: text-top;
+    padding: 25px;
+    margin: 18px;
     
     em {
 	    font-size: $small-font-size;
+	    line-height: normal !important;
        
     }
 
 
-    > li {
+    > div {
         margin-bottom: $spacing-unit;
     }
+    
 }
 
 .post-meta {

@@ -3,7 +3,7 @@ layout: post
 title:  "Forgetting Time"
 date:   2018-11-27
 categories: design fun
-lead: "What a 2yr old can teach us about time."
+lead: "What a 2 year old has taught me about time."
 ---
 
 <div style="column-width: 21rem; column-count: 2;">

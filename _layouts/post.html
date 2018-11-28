@@ -12,20 +12,24 @@ layout: default
     {{ content }}
   </div>
 
-  <ul class="post-list">
+  <h1 class="page-heading">And some of the better stuff</h1>
+
+  <div>
     {% for post in site.categories.top %}
-      <li>
-	      {% if post.image %}
-	      	<img src="{{ post.image | prepend: site.baseurl }}" 
-	      	alt="{{ post.title }}" title="{{ post.title }}">
-	      {% endif %}
+    
+      <div class="post-list">
+      {% if post.image %}
+      	<img src="{{ post.image | prepend: site.baseurl }}" 
+      	alt="{{ post.title }}" title="{{ post.title }}">
+      {% endif %}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          <em><small>{{ post.lead }}</small></em>
         </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}&nbsp;|&nbsp;{{ post.categories | join: ', ' }}</span>
-      </li>
+        <em><small>{{ post.lead }}</small></em>
+        <br>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}&nbsp;<!-- |&nbsp;{{ post.categories | join: ', ' }} --></span>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
 
 </article>
