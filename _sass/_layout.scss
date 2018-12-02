@@ -21,12 +21,24 @@
 
 .site-title {
     //font-family: georgia;
+    color: $brand-color;
     letter-spacing: -0.08rem;
     font-size: 3rem;
     line-height: 2;
     font-weight: 300;
-    margin-bottom: 0;
+    margin: 20px 33% 0px 33%;
     float: left;
+    
+  background-image: url(../images/dottedline.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  
+/*
+  transition: background-size 0.25s ease-in;
+  &:hover {
+    background-size: 200px 900px;
+  }
+*/
 }
 
 .site-nav {
@@ -182,20 +194,47 @@
 	text-shadow: 0.08rem 0.07rem #dddcd4;
 }
 
+.home div {
+
+	div:nth-last-of-type(2n+2){background-color: #16fa00;}
+	div:nth-last-of-type(3n+3){background-color: #f900d4;}
+	div:nth-last-of-type(4n+4){background-color: #00ccff;}
+	div:nth-last-of-type(5n+5){background-color: #903ed3;}
+	div:nth-last-of-type(6n+6){background-color: #f4df6c;}
+	
+/*
+    :nth-child(3n+3) {  
+		border-right: 13px solid #4bbbfb;
+	    border-left: 46px solid #54b139;
+	    border-bottom: 54px solid #f0ab3b;
+	}
+	
+	:nth-child(2n+2) {  
+		border-right: 13px solid #54b139;
+	    border-left: 54px solid #f0ab3b;
+	    border-bottom: 46px solid #4bbbfb;
+	}
+*/
+}
+
 .post-list {
 	display: inline-block;
     margin-left: 0;
     list-style: none;
-    border-top: 10px solid #ed492f;
     border-radius: 16px;
-    border-right: 54px solid #f0ab3b;
-    border-left: 13px solid #4bbbfb;
-    border-bottom: 46px solid #54b139;
     box-shadow: 19px 18px #cce0e9;
-    width: 183.3px;
+    max-width: 250px;
     vertical-align: text-top;
     padding: 25px;
     margin: 18px;
+/*
+    border-top: 10px solid #ed492f;
+    border-right: 54px solid #f0ab3b;
+    border-left: 13px solid #4bbbfb;
+    border-bottom: 46px solid #54b139;
+*/
+
+	h2:nth-last-of-type(3n+3){font-size: 3rem}
     
     em {
 	    font-size: $small-font-size;
@@ -232,7 +271,7 @@
 }
 
 .post-title {
-    font-size: 5rem;
+    font-size: 3.5rem;
     letter-spacing: -1px;
     line-height: 1.5;
     text-shadow: 0.12rem 0.07rem rgb(221, 220, 212); 

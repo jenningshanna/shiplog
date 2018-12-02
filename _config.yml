@@ -12,7 +12,7 @@ email: jenningshanna@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   An archive of my writings and musings.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://shiplog.jenningshanna.com/" # the base hostname & protocol for your site
 twitter_username: jenningshanna
 github_username:  jenningshanna
 dribble_username:  jenningshanna
