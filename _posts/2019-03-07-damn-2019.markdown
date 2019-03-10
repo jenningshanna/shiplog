@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Damn 2019"
-date:   2018-11-27
+date:   2019-03-07
 categories: fun poetry
 lead: "Ellijha Cummings is right"
 ---

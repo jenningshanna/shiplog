@@ -197,7 +197,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: 0 0 $spacing-unit 0;
 }
 
 .page-heading {
@@ -263,9 +263,10 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $brand-color;
+    //color: $brand-color;
     font-family: georgia;
-    margin-top: -16px;
+    font-style: italic;
+    margin-top: -30px;
 }
 
 .post-link {
@@ -286,7 +287,7 @@
     letter-spacing: -1px;
     line-height: 1.9;
     text-shadow: 0.12rem 0.07rem rgb(221, 220, 212); 
-	font-family: georgia; 
+	font-family: 'Open Sans', 'Muli', 'lucida grande', sans-serif;
 
 /*
     @include media-query($on-laptop) {

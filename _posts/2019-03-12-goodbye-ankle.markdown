@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goodbye Ankle"
-date:   2018-11-27
+date:   2019-03-10
 categories: fun poetry
 lead: "Au Revoir Mon Amour"
 ---
