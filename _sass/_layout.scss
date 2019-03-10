@@ -20,33 +20,30 @@
 }
 
 .site-title {
-    //font-family: georgia;
-    color: $brand-color;
-    letter-spacing: -0.08rem;
-    font-size: 3rem;
+	font-size: 3.5rem;
+    letter-spacing: -1px;
     line-height: 2;
-    font-weight: 300;
-    margin: 20px 33% 0px 33%;
+    text-shadow: 0.22rem 0.07rem #dddcd4;
+    font-family: georgia;
+    //margin: 20px 33% 0px 33%;
     float: left;
-    
-  background-image: url(../images/dottedline.png);
-  background-repeat: no-repeat;
-  background-position: bottom;
-  
-/*
-  transition: background-size 0.25s ease-in;
-  &:hover {
-    background-size: 200px 900px;
-  }
-*/
+    background-image: url(../images/dottedline.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
 }
 
 .site-nav {
     float: right;
     line-height: 56px;
+	
 
     .menu-icon {
         display: none;
+    }
+    
+    .active {
+	    background-color: #cce0e9;
+	    color: white;
     }
 
     .page-link {
@@ -54,11 +51,25 @@
         color: rgba(143, 192, 222, 1);
 		font-size: .9rem;
         line-height: $base-line-height;
+        
+        padding: 5px 10px 5px 10px;
+        border-radius: 5px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-            margin-right: 20px;
+            margin-right: 10px;
         }
+        
+        &:hover {
+	        background-color: #cce0e9;
+		    border-radius: 5px;
+		    color: white;
+		    
+		    //-webkit-transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
+			//transition:         all 300ms cubic-bezier(0.23, 1, 0.32, 1); 
+		    //@include transition(all 1600ms ceaser($easeOutQuint));
+        }
+        
     }
 
     @include media-query($on-palm) {
@@ -195,7 +206,7 @@
 }
 
 .home div {
-
+	div {background-color: #FFFFFF;}
 	div:nth-last-of-type(2n+2){background-color: #16fa00;}
 	div:nth-last-of-type(3n+3){background-color: #f900d4;}
 	div:nth-last-of-type(4n+4){background-color: #00ccff;}
@@ -223,7 +234,7 @@
     list-style: none;
     border-radius: 16px;
     box-shadow: 19px 18px #cce0e9;
-    max-width: 250px;
+    max-width: 249px;
     vertical-align: text-top;
     padding: 25px;
     margin: 18px;
@@ -233,8 +244,9 @@
     border-left: 13px solid #4bbbfb;
     border-bottom: 46px solid #54b139;
 */
-
-	h2:nth-last-of-type(3n+3){font-size: 3rem}
+	
+	h2 a {font-size: 1.2rem;}
+	//h2:nth-last-of-type(3n+3){font-size: 1.2rem;}
     
     em {
 	    font-size: $small-font-size;
@@ -271,19 +283,24 @@
 }
 
 .post-title {
-    font-size: 3.5rem;
     letter-spacing: -1px;
-    line-height: 1.5;
+    line-height: 1.9;
     text-shadow: 0.12rem 0.07rem rgb(221, 220, 212); 
 	font-family: georgia; 
 
+/*
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+*/
 }
 
 .post-content {
     margin-bottom: $spacing-unit;
+    
+    a {
+	    text-decoration: underline;
+    }
     
     span.dropcap {
 	  	  color: #111;
@@ -319,4 +336,11 @@
             font-size: 18px;
         }
     }
+}
+
+div.post-content > p > img {
+  display: block;
+  margin: 0 auto;
+  max-height: 80%;
+  max-width: 100%;
 }

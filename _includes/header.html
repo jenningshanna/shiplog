@@ -1,14 +1,21 @@
-<header class="site-lead">
-</header>
+<header class="site-lead"></header>
 
 <header class="site-header">
 
   <div class="wrapper">
+	  
+	{% include navigation.html %}
 	
-    <a class="site-title" href="{{ site.baseurl }}/">
-	   <!-- <img src="{{ site.url }}/images/writingpen.png" alt="writingpen" width="44px" height="44px" /> -->
-	{{ site.title }}</a>
-	
+    <h1 class="site-title" href="{{ site.baseurl }}/">
+	   {{ site.title }}
+	</h1>
+
+  </div>
+
+</header>
+
+<!-- 	   <img src="{{ site.url }}/images/writingpen.png" alt="writingpen" width="44px" height="44px" /> -->
+
 <!--
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -28,7 +35,3 @@
       </div>
     </nav>
 -->
-
-  </div>
-
-</header>

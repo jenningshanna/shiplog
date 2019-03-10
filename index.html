@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<div>
-	
-</div>
+
 <div class="home">
 	
   <div>
@@ -21,6 +19,7 @@ layout: default
     {% endfor %}
   </div>
         
+<!--
   <h1 class="page-heading">Some of the better stuff</h1>
 
   <div>
@@ -36,11 +35,14 @@ layout: default
         </h2>
         <em><small>{{ post.lead }}</small></em>
         <br>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}&nbsp;<!-- |&nbsp;{{ post.categories | join: ', ' }} --></span>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}&nbsp; |&nbsp;{{ post.categories | join: ', ' }} </span>
       </div>
     {% endfor %}
   </div>
-<!--RSS SUBSCRIBE AND HOME LINK -->
+-->
+
+<!--RSS SUBSCRIBE AND HOME LINK 
   <p class="rss-subscribe" style="float: right; font-size: 12px; margin-top: -19px;">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> or go back to <a href="http://www.jenningshanna.com">JenningsHanna.com</a></p>
+-->
 
 </div>

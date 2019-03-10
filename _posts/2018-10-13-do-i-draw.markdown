@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Do I Draw?"
+title:  "Taking leave from work"
 date:   2018-10-13
 categories: design fun
 lead: "Fun ideas and projects for me during leave from work"
