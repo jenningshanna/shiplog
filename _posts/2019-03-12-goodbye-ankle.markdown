@@ -4,6 +4,7 @@ title:  "Goodbye Ankle"
 date:   2019-03-10
 categories: fun poetry
 lead: "Au Revoir Mon Amour"
+image: /images/goodbye-ankle.png
 ---
 
 Au revoir mon amour.

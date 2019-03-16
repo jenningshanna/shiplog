@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Taking leave from work"
+title:  "Do I Draw?"
 date:   2018-10-13
 categories: design fun
 lead: "Fun ideas and projects for me during leave from work"
+image: /images/kids-book.png
 ---
 # What do you do with PATERNITY LEAVE?
 Last time my wife and I had a child I was unemployed in the most spectacular way. I worked at a startup in San Francisco that was later bought by a bigger start up. Everyone knew it was coming, well everyone EXCEPT FOR ME, and instead of just telling me that I would be quickly unemployed they let me off early. I was devastated, as anyone would be, but I got my wits together and started working on SIDE PROJECTs.
