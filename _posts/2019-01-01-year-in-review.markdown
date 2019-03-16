@@ -12,7 +12,7 @@ Writing / Drawing / Making Stuff
 - Wrote about indy games have better websites [here]({% post_url 2018-03-24-why-do-indy-games-have-better-websites %}).
 - Thinking out loud about all the things I was going to do with paternity leave. [I did some of it]({% post_url 2018-10-13-do-i-draw %}).
 - Wrote about watching my toddler interpret time. And put it into HTML columns (like those old things we called magazines) [here]({% post_url 2018-11-27-forgetting-time %}). The magazine styling is a fun new feature of HTML that requires no CSS. Something like this used to be really difficult to do well.
-- Made some cool space posters that I have no idea what I am going to do with. 
+- Made some cool space posters that I have no idea what I am going to do with. [Spacey!]({% post_url 2018-12-28-space-posters %})
 
 Family
 - On November 21st, at approximately 12:02am, our second son was born! His name is Rider Paisley Hanna.
@@ -49,7 +49,7 @@ Work
 The Personal Brand
 - Updated [jenningshanna.com](https://www.jenningshanna.com) with a EA box. Nothing in it yet but lots to document when I get around to it.
 - Re-designed this site and really put a ton of work into it's structure. Wrote a bit about how it works under the hood [here]({% post_url 2019-03-10-how-this-works %}).
-- here's a little report on jenningshanna.com from my analytics. 
+- Here's a little report on jenningshanna.com from my analytics. 
 
 <iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/1S4CpCMqTWTEaUNVcU2dedTnN6avWLogH/page/dYEk" frameborder="0" style="border:0" allowfullscreen></iframe>
 
