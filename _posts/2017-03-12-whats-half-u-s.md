@@ -4,6 +4,7 @@ title:  "What’s Half of U.S.?"
 date:   2016-11-09
 categories: fun
 lead: ""
+image: /images/half-u-s.png
 ---
 
 ![NYTs Political Map](/images/half-u-s.png)

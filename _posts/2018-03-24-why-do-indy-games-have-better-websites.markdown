@@ -4,14 +4,13 @@ title:  "Indy Game Marketing "
 date:   2018-03-11
 categories: design fun top
 lead: "Why do indie games have better sites?"
+image: /images/fe.png
 ---
 > "It's probably because they have less bureaucracy." 
 
 This is what I imagine my colleagues telling me if I were to ask this question: 
 <br/><br/>
 # Why do indie games have better sites?
-
-<br/><br/>
 
 #### Exhibit A - BELOW
 For example, one of my absolute favorites, [Below](http://www.whatliesbelow.com/) (there's also an easter egg in this site involving a shooting star).
@@ -46,7 +45,7 @@ There are many things happening here. Not all are apparent from the usability si
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u17kM8oSz3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br/><br/>
-
+![Fe Game Concept Art](/images/fe.png)
 #### Exhibit C - FE
 Hey, you think I would really write this without featuring some of my work? Hehe.
 

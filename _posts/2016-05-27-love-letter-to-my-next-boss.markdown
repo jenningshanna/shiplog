@@ -4,8 +4,11 @@ title:  "A love letter to my next boss"
 date:   2016-06-26
 categories: design top
 lead: ""
+image: /images/love-letter.png
 ---
 _Originally published in UX Collective [here](https://uxdesign.cc/a-love-letter-to-my-next-boss-81a40fcc2c57)._
+
+![Mailbox randomly found on google image search](https://cdn-images-1.medium.com/max/2600/1*IOZC9nmYpJCaendKkOWHVw.jpeg)
 
 _You’ll read this once and only once._ This isn’t a plea or a treatise. It’s not my way of conjuring you into inviting me to come by your office and chat with the team. Though that may be wonderful! This is a outline of my thoughts after a friend and colleague asked me, “who do you want to work for?” . . .
 

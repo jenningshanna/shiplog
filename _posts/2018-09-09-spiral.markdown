@@ -4,6 +4,7 @@ title:  "An Imperfect Spiral"
 date:   2018-09-09
 categories: design
 lead: "Dissecting an app we built at NFL Media"
+image: /images/spiral-app.jpg
 ---
 _What I learned about ritual from a product that didn't make it_
 
