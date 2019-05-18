@@ -1,6 +1,6 @@
 
-# Shiplog (shiplog.jenningshanna.com)
+# [Shiplog](shiplog.jenningshanna.com)
 
-All my writing over the years.
+## Jennings Hanna's Blog. Featuring things I make or write about.
 
-Built using Jekyll and Github and Nearly Free Speech platforms.
+### Built using Jekyll and Github Pages. Hosted by Nearly Free Speech.
