@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "Altus Cosmic Day!"
+title:  "Altus Cosmic. What!?!"
 date:   2019-04-01
 categories: design fun poetry
-lead: "Making a abstract comic for Instagram"
+lead: "We're making an abstract comic for Instagram"
 image: /images/altus-cosmic2.png
 ---
 
-# I STARTED A COMIC, BECAUSE WHY NOT?
+# WE STARTED A COMIC, BECAUSE WHY NOT? THE WORLD CAN ALWAYS USE MORE WEIRD.
 
 [Take a look and please follow our comic if you dig it.](https://www.instagram.com/altuscosmic/)
+
+My wife told me she taught it was "refreshing" since Instagram is full of human ego and vanity crap. (Best compliment ever!)
 
 ## Epsiode 1
 
