@@ -7,6 +7,11 @@ permalink: /thesis/
 {% for post in site.categories.thesis %}
     
 <div class="post-list">
+	    {% if post.image %}
+	    	<a class="post-link post-image" href="{{ post.url | prepend: site.baseurl }}">
+	      		<img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
+      		</a>
+	  	{% endif %}
 <h2>
 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 </h2>
