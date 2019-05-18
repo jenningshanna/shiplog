@@ -7,7 +7,7 @@ lead: "We're making an abstract comic for Instagram"
 image: /images/altus-cosmic2.png
 ---
 
-# WE STARTED A COMIC, BECAUSE WHY NOT? THE WORLD CAN ALWAYS USE MORE WEIRD.
+# WE STARTED A COMIC, BECAUSE THE WORLD CAN ALWAYS USE MORE WEIRD.
 
 [Take a look and please follow our comic if you dig it.](https://www.instagram.com/altuscosmic/)
 
