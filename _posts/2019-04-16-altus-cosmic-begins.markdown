@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Altus Cosmic. What!?!"
-date:   2019-04-01
+date:   2019-04-16
 categories: design fun poetry
 lead: "We're making an abstract comic for Instagram"
 image: /images/altus-cosmic2.png
@@ -11,7 +11,7 @@ image: /images/altus-cosmic2.png
 
 [Take a look and please follow our comic if you dig it.](https://www.instagram.com/altuscosmic/)
 
-My wife told me she taught it was "refreshing" since Instagram is full of human ego and vanity crap. (Best compliment ever!)
+My wife told me she taught it was "refreshing" since Instagram is full of human ego and vanity. _(Best compliment ever!)_
 
 ## Epsiode 1
 
