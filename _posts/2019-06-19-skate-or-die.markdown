@@ -4,7 +4,7 @@ title:  "Skate or Die"
 date:   2019-06-19
 categories: design
 lead: "What I learned making content and editorial at Electronic Arts"
-image: /images/skateordie/SkateorDie-header.gif
+image: /images/skateordie/skateordie-header.gif
 ---
 <!-- ## Skate or Die
 #### My two and half years building content for Electronic Arts -->
