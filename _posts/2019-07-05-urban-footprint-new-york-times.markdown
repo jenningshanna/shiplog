@@ -18,9 +18,9 @@ The article is _[Cities Start to Question an American Ideal: A House With a Yard
 
 ![Urban Footprint in the New York Times-1.png](/images/UF-in-the-NYTs-1.png)
 
-The significance of those maps is that they were made with Urban Footrpint, an Urban Planning product I designed years ago at Calthorpe Analytics in Berekely, Ca. 
+The significance of those maps is that they were made with [Urban Footrpint](https://urbanfootprint.com/), an Urban Planning product I designed years ago at Calthorpe Analytics in Berekely, Ca. 
 
-It's not every day you get so say you did something that ended up in the New York Times. A colleage told me once that you either end up on the frontpage because you did something really dumb or you died in a plane crash. Well, I did something good and still go there! Boooyaahhhh
+It's not every day you get so say you did something that ended up in the New York Times. A colleage told me once that you either end up on the frontpage because you did something really dumb or you died in a plane crash. Well, I did something good and still got there! #Winning
 
 Here's the digital homepage:
 
