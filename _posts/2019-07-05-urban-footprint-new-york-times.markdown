@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Urban Footprint in the New York Times"
-date:   2019-07-01
+date:   2019-07-05
 categories: fun 
 lead: "A product I designed in Berkeley is being used to visualize cartography in Editorial by the New York Times"
 image: /images/UF-NYTs-homepage.jpg
@@ -24,4 +24,4 @@ It's not every day you get so say you did something that ended up in the New Yor
 
 Here's the digital homepage:
 
-![Urban Footprint in the NYTimes.com Homepage](/images/UF-nytimes-homepage-june18-no-scrim.png)
+![Urban Footprint in the NYTimes.com homepage](/images/UF-nytimes-homepage-june18.png)
