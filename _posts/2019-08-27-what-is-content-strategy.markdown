@@ -7,6 +7,12 @@ lead: ""
 image: /images/EQL-whiteboard-flow.jpg
 ---
 
+<div style="margin: 0 auto; text-align:center;padding:45px 0;">
+<div style="padding-bottom: 50px;"><img src="{{ page.image }}" alt="Example of whiteboarding" /></div>
+<h1>{{ page.title }}</h1>
+<em>{{ page.lead }}</em>
+</div>
+
 What is Content?
 
 Stories building on stories. Influence through what a lifestyle looks like. Turning products and services into associations that resonate and are something people want to flaunt.
