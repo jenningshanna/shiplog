@@ -15,7 +15,7 @@ image: https://www.jenningshanna.com/assets/images/cribby.png
 
 ### What does it all mean?
 
-![alt text](images\jack-what-does-it-mean.jpg)
+![alt text](/images/jack-what-does-it-mean.jpg)
 
 #####Losing the flame
 
