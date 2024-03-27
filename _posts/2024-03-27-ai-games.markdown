@@ -1,0 +1,18 @@
+---
+layout: post-default
+title:  "Sound Synth"
+date:   2024-03-27
+categories: design
+lead: ""
+image: /images/sound-synth.png
+---
+
+<h1>{{ page.title }}</h1>
+<em>{{ page.lead }} | {{ page.date }}</em>
+
+I recently took a piece of sound from an artist friend and made a [online synth](https://www.jenningshanna.com/sound-test/)
+ where you can change the pitch, warp the sound, pan from left to right, and use an equalizer to adjust low, mid, and high frequencies. This is built using the Howler.js library, an awsome javascript plugin for controlling audio.
+
+Eventually I'd like to take this further and make it an effect pedal for a guitar or a microphone input into my computer. That's going to take a bit of work but hopefully with a bit of Python scripting I can get this website to interface with my PC or Mac.
+
+Wish me luck!
