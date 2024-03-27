@@ -10,13 +10,13 @@ image: /images/
 <h1>{{ page.title }}</h1>
 <em>{{ page.lead }} | {{ page.date }}</em>
 
-I put this shiplog together many years ago. It's built using GitHub and Jekyll. It's an amazing open-source publishing software that uses Markdown and can be configured however I like. When I am ready to make an update or a post I simply push the code to a GitHub repo and call it day.
+I put this shiplog together many years ago. It's built using [GitHub](https://github.com/) and [Jekyll](https://jekyllrb.com/). It's an amazing open-source publishing software that uses Markdown and can be configured however I like. When I am ready to make an update or a post I simply push the code to a GitHub repo and call it a day.
 
 In a way I feel like I've neglected my power to code, or modify code to my liking. Since I was young I loved to tinker with things. I was always rebuilding something; and now I see my kids always rebuilding things too. It's so wonderful to be a person obsessed with making and tinkering. It's a mindset that is freeing from the always oppresive nature of not understanding how things *actually* work.
 
-Today I'm looking to reignite this shiplog. I'd like to commit to a daily (or more likely simi-daily) ritual of making a post here.
+Today, I'm looking to sail this ship and rekindle this shiplog. I never stopped creating (sailing) but I'd like to commit, right freaking now, to a daily (or more likely semi-daily) ritual of making a post here. *pinky promise*
 
-On most days I'm going to to very little and share an accountability post. On other days I am going to write a long essay on the meaning of life and the termoils of childbearing, working in tech, and being a designer (or doing anything in our society that is adstract).
+On most days I'm going to share very little and simply conjure an accountability post. On other days, I'll write a long essay on the meaning of life and the turmoils of childbearing, working in tech, and being a designer (or doing anything in our society that is abstract).
 
 The accountability post will look something like this:
 
