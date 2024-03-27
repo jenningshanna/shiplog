@@ -2,7 +2,7 @@
 layout: post-default
 title:  "Daily Act"
 date:   2024-03-27
-categories: Writing
+categories: design
 lead: ""
 image: /images/
 ---
