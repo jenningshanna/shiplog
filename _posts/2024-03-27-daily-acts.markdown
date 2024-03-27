@@ -24,3 +24,9 @@ The accountability post will look something like this:
 - What support do I need to get that done?
 - What feelings do I have about it?
 - Where do I expect to get it today?
+
+That's it to start. Wish me luck on this journey of sharing more and being open!
+
+All my best,
+
+~ Jennings
