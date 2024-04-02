@@ -33,7 +33,9 @@ Now we have the Waltons who alone own full percentage points of the world's weal
 
 Putin gets it. So do other scary figures. This is the moment that Batman and the Avengers were warning us about. This is destabilization.
 
-"Absolute power corrupts absolutely", Oscar Wilde.
+<div style="margin: 0 auto; text-align:center;padding:45px 0;">
+<div style="padding-bottom: 50px;"><blockquote>"Absolute power corrupts absolutely", Oscar Wilde.</blockquote></div>
+</div>
 
 The conviction my kids hold for their service is missing throughout our capitalistic system. We're not convinced that our wealth can cure, heal, and or relieve the world of suffering. We're building rockets. Like some other rock is going to change our destiny of too many people and too little care.
 
@@ -43,7 +45,7 @@ In 2001 Michael Moore makes a movie about how our healthcare system has destroye
 
 Our representatives have been talking about the collapse of Social Security since I was born. Nothing has been done except that time the GOP tied its debt ceiling to inflation which pretty much made damn sure the system would collapse faster by doing so. We'll never know what their intention was but I'm guessing they had a hunch that inflation would skyrocket as rich people diverted the majority of the world's wealth into phallic rocket businesses.
 
-These rich people are jerks
+These rich people are jerks :rocket:
 
 One rocket man, who I won't name because honestly why would anyone write his name. He had the animosity to challenge the United Nations that if they could give him a plan to fix world hunger he'd pay for it and then they gave him a plan and he didn't pay for it. Instead, he's getting a check from Uncle Sam for his satellite and space station deliveries.
 
@@ -63,6 +65,6 @@ Starting. Now.
 
 ~ Jennings
 
-PS: Hey, rocket men. I mean it. You're jerks. Stop and help the world before it's too freaking late. Please.
+---
 
 Photo Credit: Stuart Pearce, YachtShot
