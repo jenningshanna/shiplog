@@ -8,7 +8,7 @@ image: /images/koru.jpg
 ---
 
 <div style="margin: 0 auto; text-align:center;padding:45px 0;">
-<div style="padding-bottom: 50px;"><img src="{{ page.image }}" alt="New York Times Homepage June 19, 2019" /></div>
+<div style="padding-bottom: 50px;"><img src="{{ page.image }}" alt="Fuck you and your yacht, Jeff" /></div>
 <h1>{{ page.title }}</h1>
 <em>{{ page.lead }}</em>
 </div>
@@ -25,7 +25,7 @@ The numbers are true. And even worse we're in a retirement crisis. In 1980 90% o
 
 We are living longer. No one wants to talk about it but living longer is actually terrible for our social economics. We have the largest generation in history, the baby boomers, who then had a ton of kids creating two even larger generations. Think about this: In 1970 the world's population was 3,695,390,336, today it's 8,100,191,266. (you can always check at the [World Population Project](https://population.io/).)
 
-### Living longer without a plan
+## Living longer without a plan
 
 We never expected that globalization would light an insatiable fire under the baby boomers to drive economic growth through the roof. Nor did we expect to create the types of luxurious wealth that the Rockefellers building the railroads and stealing land could only dream of.
 
@@ -39,7 +39,7 @@ Putin gets it. So do other scary figures. This is the moment that Batman and the
 
 The conviction my kids hold for their service is missing throughout our capitalistic system. We're not convinced that our wealth can cure, heal, and or relieve the world of suffering. We're building rockets. Like some other rock is going to change our destiny of too many people and too little care.
 
-### We all fucking saw this coming
+## We all fucking saw this coming
 
 In 2001 Michael Moore makes a movie about how our healthcare system has destroyed 1 in 5 Americans' economic livelihoods. 23 years later, lives are still easily and quickly destroyed by a broken healthcare system (which also sucks btw when ranked against other developed nations).
 
@@ -67,4 +67,4 @@ Starting. Now.
 
 ---
 
-Photo Credit: Stuart Pearce, YachtShot
+`Photo Credit: Stuart Pearce, YachtShot`

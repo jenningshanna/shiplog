@@ -7,8 +7,11 @@ lead: ""
 image: /images/sound-synth.png
 ---
 
+<div style="margin: 0 auto; text-align:center;padding:45px 0;">
+<div style="padding-bottom: 50px;"><a target="_blank" href="https://www.jenningshanna.com/sound-test/"><img src="{{ page.image }}" alt="Sound Synth Prototype screenshot" /></a></div>
 <h1>{{ page.title }}</h1>
-<em>{{ page.lead }} | {{ page.date }}</em>
+<em>{{ page.lead }}</em>
+</div>
 
 I recently took a piece of sound from an artist friend and made a [online synth](https://www.jenningshanna.com/sound-test/)
  where you can change the pitch, warp the sound, pan from left to right, and use an equalizer to adjust low, mid, and high frequencies. This is built using the Howler.js library, an awsome javascript plugin for controlling audio.
@@ -16,3 +19,6 @@ I recently took a piece of sound from an artist friend and made a [online synth]
 Eventually I'd like to take this further and make it an effect pedal for a guitar or a microphone input into my computer. That's going to take a bit of work but hopefully with a bit of Python scripting I can get this website to interface with my PC or Mac.
 
 Wish me luck!
+
+You can find the prototype on my website (here)[https://www.jenningshanna.com/sound-test/].
+
