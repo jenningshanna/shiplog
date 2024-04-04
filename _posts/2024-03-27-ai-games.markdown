@@ -20,5 +20,5 @@ Eventually I'd like to take this further and make it an effect pedal for a guita
 
 Wish me luck!
 
-You can find the prototype on my website (here)[https://www.jenningshanna.com/sound-test/].
+You can find the prototype on my website [here](https://www.jenningshanna.com/sound-test/).
 
